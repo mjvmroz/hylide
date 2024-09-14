@@ -4,6 +4,13 @@ WebGL rendering environment for livecoding shaders with [Hylogen](https://github
 
 ![](https://thumbs.gfycat.com/SoftAdeptAlaskajingle-size_restricted.gif)
 
+## Dependencies
+- gmp:
+  - Ubuntu/Debian: `libgmp-dev`
+  - Fedora/RHEL: `gmp-devel`
+- libtinfo:
+  - Ubuntu/Debian: `libtinfo-dev`
+  - Fedora/RHEL: `ncurses-devel`
 
 ## Install
 ```
